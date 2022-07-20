@@ -1,2 +1,2 @@
-# BasicScheduler Atmega329P - AtmelStudio
+# BasicScheduler Atmega328P - AtmelStudio
 BasicScheduler for small microcontroller
